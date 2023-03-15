@@ -1,2 +1,1 @@
-1
-hasndndsngajnjfvnfjadodaj komentarz'test'jifrnjeuigfnjsojfi
+'test'
