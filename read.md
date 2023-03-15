@@ -1,1 +1,1 @@
-'test'
+komentarz 'test' komentarz
