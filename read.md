@@ -1,1 +1,1 @@
-komentarz 'test' komentarz
+kom 'test' kom
