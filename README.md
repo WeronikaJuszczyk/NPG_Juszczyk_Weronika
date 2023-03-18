@@ -1,1 +1,1 @@
-# tekst komentarz na potrzeby zadania 5
+# tekst komentarz na potrzeby zadania 6
